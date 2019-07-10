@@ -7,7 +7,7 @@
     </div>
     <hr>
     <div v-if="items.length > 0">
-      <div class="row" >
+      <div class="row" > 
         <div class="table-responsive col-md">
           <table class="table .thead-dark">
             <thead>
