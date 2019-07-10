@@ -1,0 +1,7 @@
+dbname: Store
+username: ***** 
+password: *****
+params: 
+    host: localhost 
+    port: ****
+    dialect: mssql
